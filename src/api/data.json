@@ -1,0 +1,55 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Nidhi",
+      "lastName": "Gupta",
+      "email": "xyz@gmail.com",
+      "dob": "1987-10-30T18:30:00.000Z",
+      "address": "xyz",
+      "phone": "24234234",
+      "gender": "female"
+    },
+    {
+      "id": 2,
+      "firstName": "Atishay",
+      "lastName": "Gupta",
+      "email": "xyz@gmail.com",
+      "dob": "1987-10-30T18:30:00.000Z",
+      "address": "xyz",
+      "phone": "24234234",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "firstName": "Ankush",
+      "lastName": "Gupta",
+      "email": "ankush@gmail.com",
+      "dob": "1987-10-30T18:30:00.000Z",
+      "address": "xyz",
+      "phone": "91234234",
+      "gender": "male"
+    },
+    {
+      "firstName": "Nutan",
+      "lastName": "Mohania",
+      "email": "nidhi@sdj.sdf",
+      "dob": "2024-01-31T18:30:00.000Z",
+      "address": "sdofkl24",
+      "phone": "234093",
+      "gender": "female",
+      "id": 4
+    },
+    {
+      "firstName": "hkj",
+      "lastName": "yhy",
+      "email": "hgd@fdg.hgj",
+      "dob": "2121-10-10T18:30:00.000Z",
+      "address": "gfhgfh",
+      "phone": "2432324",
+      "gender": "female",
+      "terms": true,
+      "id": 5
+    }
+  ]
+}
