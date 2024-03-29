@@ -39,17 +39,6 @@
       "phone": "234093",
       "gender": "female",
       "id": 4
-    },
-    {
-      "firstName": "hkj",
-      "lastName": "yhy",
-      "email": "hgd@fdg.hgj",
-      "dob": "2121-10-10T18:30:00.000Z",
-      "address": "gfhgfh",
-      "phone": "2432324",
-      "gender": "female",
-      "terms": true,
-      "id": 5
     }
   ]
 }
