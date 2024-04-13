@@ -1,44 +1,112 @@
 {
+  "userRegistration": [
+    {
+      "user": "nidhi",
+      "password": "$2a$10$/gWntePPUagmeDkfFEMsfuqeTHVrHfXR0QdShGMCDseXJRBm/J/R2",
+      "userId": "U688077",
+      "role": "Admin",
+      "emailId": "nidhi@dsf.dsf",
+      "id": 1
+    },
+    {
+      "user": "atishay",
+      "password": "$2a$10$7dC7CaOOGDpz/cIj7MtN5erLwObaLzVnwpEPxkICSBdWi5Ql5MYYa",
+      "userId": "U344720",
+      "role": "Team Lead",
+      "emailId": "ati@gmail.com",
+      "id": 2
+    }
+  ],
+  "Projects": [
+    {
+      "id": 1,
+      "pid": "P9000989",
+      "name": "project A",
+      "description": "This is project A",
+      "document": "",
+      "task": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": 2,
+      "pid": "P900091",
+      "name": "project B",
+      "description": "This is project BC",
+      "document": "",
+      "task": [
+        5,
+        6
+      ]
+    },
+    {
+      "pid": "P34646",
+      "name": "Project C",
+      "description": "This is my Project",
+      "document": "",
+      "task": [],
+      "id": 3
+    }
+  ],
+  "Tasks": [
+    {
+      "id": 1,
+      "tid": "T540040",
+      "title": "Task1",
+      "description": "Complete Task 1",
+      "assignee": "U344720",
+      "dueDate": "2024-06-10T06:02:06.458Z",
+      "startDate": "2024-03-05T06:02:06.458Z",
+      "endDate": "2024-06-05T06:02:06.458Z",
+      "status": "to do"
+    }
+  ],
+  "Teams": [
+    {
+      "id": 1,
+      "name": "Team A",
+      "description": "This is the Team A",
+      "members": [
+        "U344720"
+      ]
+    }
+  ],
   "employees": [
     {
       "id": 1,
-      "firstName": "Nidhi",
+      "firstName": "Nidhi1",
       "lastName": "Gupta",
-      "email": "xyz@gmail.com",
-      "dob": "1987-10-30T18:30:00.000Z",
+      "email": "nidhi1@gmail.com",
+      "dob": "2024-03-05T06:02:06.458Z",
       "address": "xyz",
       "phone": "24234234",
-      "gender": "female"
+      "gender": "female",
+      "terms": true
     },
     {
       "id": 2,
       "firstName": "Atishay",
       "lastName": "Gupta",
-      "email": "xyz@gmail.com",
-      "dob": "1987-10-30T18:30:00.000Z",
+      "email": "atishay@gmail.com",
+      "dob": "2000-01-06T07:13:01.000Z",
       "address": "xyz",
       "phone": "24234234",
-      "gender": "male"
+      "gender": "male",
+      "terms": true
     },
     {
-      "id": 3,
-      "firstName": "Ankush",
+      "firstName": "AnkushG",
       "lastName": "Gupta",
-      "email": "ankush@gmail.com",
-      "dob": "1987-10-30T18:30:00.000Z",
-      "address": "xyz",
-      "phone": "91234234",
-      "gender": "male"
-    },
-    {
-      "firstName": "Nutan",
-      "lastName": "Mohania",
-      "email": "nidhi@sdj.sdf",
-      "dob": "2024-01-31T18:30:00.000Z",
-      "address": "sdofkl24",
-      "phone": "234093",
-      "gender": "female",
-      "id": 4
+      "email": "ankush@sfdk.sdf",
+      "dob": "1991-03-08T18:30:00.000Z",
+      "address": "dskfjk",
+      "phone": "24343243",
+      "gender": "male",
+      "id": 3,
+      "terms": true
     }
   ]
 }
